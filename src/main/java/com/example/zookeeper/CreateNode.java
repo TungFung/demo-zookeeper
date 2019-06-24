@@ -1,4 +1,4 @@
-package com.example;
+package com.example.zookeeper;
 
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.ZooDefs;

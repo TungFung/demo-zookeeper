@@ -1,4 +1,4 @@
-package com.example;
+package com.example.zookeeper;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.zookeeper.WatchedEvent;
